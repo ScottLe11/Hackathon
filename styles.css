@@ -1,0 +1,124 @@
+.header {
+    background-image: url("https://images.vexels.com/media/users/3/146981/raw/436d0b678049b2c224276a55dd9240c8-breaking-news-header-design.jpg");
+    height: 200px;
+    width: 1000px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-top: 10px solid black;
+
+}
+
+.left {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-left: 10px solid black;
+    border-top: 10px solid black;
+
+    border-right: 5px solid black;
+}
+
+.right {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-right: 10px solid black;
+    border-top: 10px solid black;
+
+    border-left: 10px solid black;
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+}
+
+.call {
+    background-color: red;
+    border-left: 10px solid black;
+    border-right: 5px solid black;
+    border-bottom: 10px solid black;
+    margin-top: 0;
+    width: 200px;
+    height: 800px;
+}
+
+.zap {
+    background-color: red;
+    border-left: 5px solid black;
+    border-right: 10px solid black;
+    border-bottom: 10px solid black;
+    margin-top: 0;
+    width: 200px;
+    height: 800px;
+}
+
+.center {
+    background-color: blue;
+    border-top: 10px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border: 10px solid black;
+    width: 1000px;
+    height: 1000px;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.menue {
+    display: flex;
+    justify-content: center;
+}
+
+.home {
+    background-color: red;
+    padding: 5px;
+    border: 5px solid black;
+
+}
+
+.high {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 60px;
+    margin-bottom: 18px;
+}
+
+.ast {
+    height: 250px;
+    border: 10px black ridge;
+    margin-left: 25px;
+}
+
+.popular {
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+.ral {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.exp {
+    margin-right: 25px;
+    margin-left: 25px;
+    font-size: 25px;
+    border: 10px ridge black;
+    padding: 10px;
+}
+.articles {
+    background-color: red;
+    padding: 5px;
+    border: 5px solid black;
+}
+.link {
+    background-color: red;
+    padding: 5px;
+    border: 5px solid black;
+}
